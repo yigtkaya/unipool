@@ -78,7 +78,6 @@ dependencies:
   dropdown_button2: ^2.3.9
   phone_number: ^2.1.0
   intl_phone_field: ^3.2.0
-  skeletonizer: ^1.4.2
   fluttertoast: ^8.2.8
   either_dart: ^1.0.0
   logger: ^2.5.0
