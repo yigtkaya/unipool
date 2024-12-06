@@ -17,15 +17,15 @@ This project ride sharing app amongs students. Aiming to provide a platform for 
 
 ## Project Screens
 
-<img src="documentation/sign_up.jpeg" alt="" width="100"> 
-<img src="documentation/sign_in.jpeg" alt="" width="100"> 
-<img src="documentation/landing.png" alt="" width="100"> 
-<img src="documentation/landing-2.jpeg" alt="" width="100"> 
-<img src="documentation/my_trips.jpeg" alt="" width="100"> 
-<img src="documentation/profile.jpeg" alt="" width="100"> 
-<img src="documentation/search.jpeg" alt="" width="100"> 
-<img src="documentation/trip_information.jpeg" alt="" width="100">
-<img src="documentation/share_ride.jpeg" alt="" width="100">
+<img src="assets/images/sign_up.jpeg" alt="" width="100"> 
+<img src="assets/images/sign_in.jpeg" alt="" width="100"> 
+<img src="assets/images/landing.png" alt="" width="100"> 
+<img src="assets/images/landing-2.jpeg" alt="" width="100"> 
+<img src="assets/images/my_trips.jpeg" alt="" width="100"> 
+<img src="assets/images/profile.jpeg" alt="" width="100"> 
+<img src="assets/images/search.jpeg" alt="" width="100"> 
+<img src="assets/images/trip_information.jpeg" alt="" width="100">
+<img src="assets/images/share_ride.jpeg" alt="" width="100">
 
 ## Features
 
